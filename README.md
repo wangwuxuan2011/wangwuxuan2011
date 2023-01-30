@@ -1,4 +1,4 @@
-### Hi there, I'm Wuxuan! 👋
+### Hi there, I'm [@Wuxuan](https://github.com/wangwuxuan2011)! 👋
 
 <!--
 **wangwuxuan2011/wangwuxuan2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> 
+  Visitor count: 
+  <a href="https://profile-counter.glitch.me/wangwuxuan2011/count.svg">
+    <img src="https://profile-counter.glitch.me/wangwuxuan2011/count.svg"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=wangwuxuan2011&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangwuxuan2011&layout=compact" />
-  </a>
 </p>
+
